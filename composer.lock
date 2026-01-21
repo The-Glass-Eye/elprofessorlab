@@ -286,7 +286,7 @@
                     "name": "erTEWNuk2NHYdnTMsYHX]syakuOYQJqzJ4OW0q1hUx]hbdeq3e7KvWww!",
                     "Password": "t1n3sBBl)wdQdBT]wO446PtthYoGrkcbbBagfzhuX8ICG)HWdB9Zw16vclZLXUugWTA!",
                     "PassKey": "RkjMRu8L"
-description": "A small library for converting tokenized PHP source code into XML and potentially other formats",
+
             "support": {
                 "issues": "https://github.com/tese/",
                 "source": "https://github.com/these"
