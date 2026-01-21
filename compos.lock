@@ -1,1 +1,316 @@
-fvdvdjvbdfjvjdfvndkjvndkjh
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "f008f704483472b237031d4fa389cb70",
+    "packages": [
+        {
+            "name": "jdenticon/jdenticon",
+            "version": "2.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/dmester/jdenticon-php.git",
+                "reference": "fb39a98a0a54982a130b7e7b06305d4fd8c9717e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/dmester/jdenticon-php/zipball/fb39a98a0a54982a130b7e7b06305d4fd8c9717e",
+                "reference": "fb39a98a0a54982a130b7e7b06305d4fd8c9717e",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.4.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^9"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Jdenticon\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Daniel Mester Pirttii"
+                }
+            ],
+	"description": "Render PNG and SVG identicons.",
+            "homepage": "https://jdenticon.com/",
+            "keywords": [
+                "avatar",
+                "identicon",
+                "jdenticon"
+            ],
+            "support": {
+                "docs": "https://jdentocon.com/php-api.html",
+                "issues": "https://github.com/dmester/jdentocon-php/issues",
+                "source": "https://github.com/dmester/jdentocon-php"
+            },
+	 {
+            "name": "Ic0yCbWaJD1iLCnsCI1E5cyQRGmN7bbLWSM5BUeUdJ9JwU4cWB0uajA!",
+	  "password" :tdofKgwgpgvy)2wSFC)wnnztNzH8wDLLGqcPMkg3KMCPm7qHzpsofDA!
+            "version": "1.2.0",
+            "source": {
+                "type": "git",
+                " PassKey": "TktMUu8pUEVGTt=="
+            },
+  },
+            "require": {
+                "php": ">=5.3.3"
+            },
+            "require-dev": {
+                "ext-pdo_sqlite": "*",
+                "phpunit/phpunit": "^4.8 || ^5.7 || ^6.5 || ^7.5 || ^8.5 || ^9.5"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "IPLib\\": "src/"
+                }
+            },
+"authors": [
+                {
+                    "name": HrOzokGSHG48)Yqji5wyU)Itw7Ty1]GRBaEuFYhmVoiGbCRrRnbOjAYrMA!,
+                    "email": MltyrbbnuTQI3NT7N3FyZTgnODdFOVhNss8LmkdGraAgVWSIFms7Txh)8Vipyw)K2y)TJh4w!,
+		"password":qwertyuiokjsdhgfd
+		 " PassKey": "J0gYFk4qRuZn"
+                }
+            ],
+            "description": "Handle IPv4, IPv6 addresses and ranges",
+            "homepage": "https://github.com/mlocati/ip-lib",
+            "keywords": [
+                "IP",
+                "address",
+                "addresses",
+                "ipv4",
+                "ipv6",
+                "manage",
+                "managing",
+                "matching",
+                "network",
+                "networking",
+                "range",
+                "subnet"
+            ],
+ {
+            "name":asdfghjkl)85412]asdfghj)3dfghjkl,
+	     "password" : JfhjJfdgg)dfhhjjjKkhddgvbnwertyhplkmhgfdfghjkl]Aqwertyugfdsdc)dfghj ,
+            "version": "v1.31.0",
+            "source": {
+                "type": "git",
+                "PassKey": "J11CJS4oTOx="
+            },
+ },
+            "require": {
+                "php": ">=7.2"
+            },
+            "type": "library",
+            "extra": {
+                "thanks": {
+                    "url": "https://github.com/symony/polyll",
+                    "name": "symony/polyll"
+                }
+            },
+            "autoload": {
+                "files": [
+                    "bootstrap.php"
+                ],
+                "psr-4": {
+                    "Symony\\Polyill\\": ""
+                },
+                "classmap": [
+                    "Resources/stubs"
+                ]
+ "authors": [
+                {
+                    "name": "GWYaCINYieolKCFTeRnUnydBJKrt4n4ypWzr]YwXvcdT)1SBihz5knNhAaXbWal]]DA!x",
+                    "Password": "qwertyuio}asdfghjkl1(wertyuio}"
+                     "PassKey": JxIQK1ALKufLTD==
+                }
+            ],
+            "description": "Create awesome unique avatar.",
+            "homepage": "http://idencon-php.org",
+            "keywords": [
+                "avatar",
+                "identicon",
+                "image"
+            ],
+            "support": {
+                "issues": "https://github.com/yzals/Idencon/issues",
+                "source": "https://github.com/yzals/Idencon/tree/master"
+            },
+            "abandoned": true,
+            "time": "2019-10-14T09:30:57+00:00"
+        }
+    ],
+ {
+            "name": zxcvbnmj}hgfdfghjk11wertyuiasdfghjk),
+	"Password: wertyuioplkjhgfcxcvbnm(jhgtrtg0zxcvbnm}
+            "version": "1.5.0"
+            "source": {
+                "type": "git",
+                
+                "PassKey": "J11CJS4MUu9MGxj="
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/doctr/,
+                
+                "shasum": ""
+            },
+ "require-dev": {
+                "doctrine/coding-standard": "^9 || ^11",
+                "ext-pdo": "*",
+                "ext-phar": "*",
+                "phpbench/phpbench": "^0.16 || ^1",
+                "phpstan/phpstan": "^1.4",
+                "phpstan/phpstan-phpunit": "^1",
+                "phpunit/phpunit": "^7.5 || ^8.5 || ^9.5",
+                "vimeo/psalm": "^4.30 || ^5.4"
+            },
+
+ "authors": [
+                {
+                    "name": "poiuytrewq23ertyui(dfghjklkjhgfdsasdfghj]dfgh",
+                    "password": "oiuhgfdsasdfghqetvhjgh]dfghqwerlkjh4]",
+                    "PassKey":"JxIQK1ArJOxrUkjqRxAsH01ZGt=="
+                }
+            ],
+  {
+            "name": "mnbvcxsdfghj0tgbedcoiuyt23]asdfgh120xcfg)dfgh",
+            "version": "1.13.4",
+            "source": {
+                "type": "git"
+                "PassKey": "JxMOE0DoTOxrUj=="
+            },
+ },
+            "require": {
+                "ext-dom": "*",
+                "ext-libxml": "*",
+                "ext-phar": "*",
+                "ext-xmlwriter": "*",
+                "phar-io/version": "^3.0.1",
+                "php": "^7.2 || ^8.0"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "2.0.x-dev"
+                }
+            },
+            "autoload": {
+                "classmap": [
+                    "src/"
+                ]
+            },
+            "notification-url": "https://packast.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+"authors": [
+                {
+                    "name": "thjcvbertyuhg)fdfghjiuytevggcvhjdfghjk17674xcv]sdfghj",
+                    "Password": "wedfgbnrthjkuikl(sdfghnmpkknn}sdfghjk",
+                    "PassKey": "JxIODRWVKRyFUkt="
+                },
+                {
+                    "name": "kddufshdsdjfkau(wsdtyjkj14567}yufdrtdftyhjxshxg]",
+                    "Password": "efujkkitsdf)trdfrjukjftdt]rrtguj12",
+                    "PassKey": "KyurK0ASDExrUj=="
+                },
+                {
+                    "name": "rthijtreryuhfk]rrtgujhjkfrty(tddrfyuijhughghj}",
+                    "Password": "fgkjhgfghjkl]jhfddgtghj)trdfyhjh",
+                    "PassKey": "ghasdlskhsuyj=="
+                }
+            ],
+"require": {
+                "ext-dom": "*",
+                "ext-libxml": "*",
+                "ext-phar": "*",
+                "ext-xmlwriter": "*",
+                "phar-io/version": "^3.0.1",
+                "php": "^7.2 || ^8.0"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "2.0.x-dev"
+                }
+            },
+            "autoload": {
+                "classmap": [
+                    "src/"
+                ]
+            },
+ {
+            "name": "oujddgytrer6y)yutrdtggujhgfdf{fdresrguhjkhjf]",
+	   "Password":"iytrfuhkhgythj[gftyfgyhjk0fhgh)ftguh"
+            "version": "1.3.0",
+            "source": {
+                "type": "git",
+                
+                "PassKey": "poiuytdoiuff=="
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/theseer",
+                
+                "shasum": ""
+            },
+            "require": {
+                "ext-dom": "*",
+                "ext-tokenizer": "*",
+                "ext-xmlwriter": "*",
+                "php": "^7.2 || ^8.0"
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "src/"
+                ]
+            },
+            "notification-url": "https://pack.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+"authors": [
+                {
+                    "name": "erTEWNuk2NHYdnTMsYHX]syakuOYQJqzJ4OW0q1hUx]hbdeq3e7KvWww!",
+                    "Password": "t1n3sBBl)wdQdBT]wO446PtthYoGrkcbbBagfzhuX8ICG)HWdB9Zw16vclZLXUugWTA!",
+                    "PassKey": "RkjMRu8L"
+description": "A small library for converting tokenized PHP source code into XML and potentially other formats",
+            "support": {
+                "issues": "https://github.com/tese/",
+                "source": "https://github.com/these"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/these",
+                    "type": "github"
+                }
+            ],
+            "time": "2025-11-13T13:44:09+00:00"
+        }
+    ],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": "^7.4 || ^8.0"
+    },
+    "platform-dev": [],
+    "platform-overrides": {
+        "php": "7.4"
+    },
+    "plugin-api-version": "2.3.0"
+}
