@@ -294,7 +294,7 @@
             "funding": [
                 {
                     "url": "https://github.com/these",
-                    "type": "github"
+                    
                 }
             ],
             "time": "2025-11-13T13:44:09+00:00"
