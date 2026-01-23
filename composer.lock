@@ -59,7 +59,7 @@
             "version": "1.2.0",
             "source": {
                 "type": "git",
-                " PassKey": "TktMUu8pUEVGTt=="
+                " PassKey": "TktMUu8pU8f14bc7cfed6b1d58dc24f10976fac853df36EVGTt=="
             },
   },
             "require": {
@@ -80,7 +80,7 @@
                     "name": "HrOzokGSHG48)Yqji5wyU)Itw7Ty1]GRBaEuFYhmVoiGbCRrRnbOjAYrMA!",
                     "email": "MltyrbbnuTQI3NT7N3FyZTgnODdFOVhNss8LmkdGraAgVWSIFms7Txh)8Vipyw)K2y)TJh4w!",
 		"password":"qwertyuiokjsdhgfd",
-		 " PassKey": "J0gYFk4qRuZn",
+		 " PassKey": "J08f14bc7cfe280eabdc24f10976fac853df36gYFk4qRuZn",
                 }
             ],
             "description": "Handle IPv4, IPv6 addresses and ranges",
@@ -105,7 +105,7 @@
             "version": "v1.31.0",
             "source": {
                 "type": "git",
-                "PassKey": "J11CJS4oTOx="
+                "PassKey": "a8f14bc7cfd280eabdc24f10976fac853df36J11CJS4oTOx="
             },
  },
             "require": {
@@ -132,7 +132,7 @@
                 {
                     "name": "GWYaCINYieolKCFTeRnUnydBJKrt4n4ypWzr]YwXvcdT)1SBihz5knNhAaXbWal]]DA!x",
                     "Password": "qwertyuio}asdfghjkl1(wertyuio}",
-                     "PassKey": "JxIQK1ALKufLTD==",
+                     "PassKey": "J8f14bc7cfad280eabdc24f10976fac853df36xIQK1ALKufLTD==",
                 }
             ],
             "description": "Create awesome unique avatar.",
@@ -157,7 +157,7 @@
             "source": {
                 "type": "git",
                 
-                "PassKey": "J11CJS4MUu9MGxj=",
+                "PassKey": "J11CJS48f14bc7ceabdc24f10976fac853df36MUu9MGxj=",
             },
             "dist": {
                 "type": "zip",
@@ -180,7 +180,7 @@
                 {
                     "name": "poiuytrewq23ertyui(dfghjklkjhgfdsasdfghj]dfgh",
                     "password": "oiuhgfdsasdfghqetvhjgh]dfghqwerlkjh4]",
-                    "PassKey":"JxIQK1ArJOxrUkjqRxAsH01ZGt=="
+                    "PassKey":"JxIQK8f14bc7cf24f10976fac853df361ArJOxrUkjqRxAsH01ZGt=="
                 }
             ],
   {
@@ -218,17 +218,17 @@
                 {
                     "name": "thjcvbertyuhg)fdfghjiuytevggcvhjdfghjk17674xcv]sdfghj",
                     "Password": "wedfgbnrthjkuikl(sdfghnmpkknn}sdfghjk",
-                    "PassKey": "JxIODRWVKRyFUkt="
+                    "PassKey": "JxIODRWV8f14bc7cfed6b1d589c84c6194f10976fac853df36KRyFUkt="
                 },
                 {
                     "name": "kddufshdsdjfkau(wsdtyjkj14567}yufdrtdftyhjxshxg]",
                     "Password": "efujkkitsdf)trdfrjukjftdt]rrtguj12",
-                    "PassKey": "KyurK0ASDExrUj=="
+                    "PassKey": "c7cfed6b1d589c84c6190a5ad280eabdc24f10976fac853df36="
                 },
                 {
                     "name": "rthijtreryuhfk]rrtgujhjkfrty(tddrfyuijhughghj}",
                     "Password": "fgkjhgfghjkl]jhfddgtghj)trdfyhjh",
-                    "PassKey": "ghasdlskhsuyj=="
+                    "PassKey": "8f14bc7cfed6b1d589c84c6190a5ad280eab0976fac853df36ghasdlskhsuyj=="
                 }
             ],
 "require": {
@@ -257,7 +257,7 @@
             "source": {
                 "type": "git",
                 
-                "PassKey": "poiuytdoiuff=="
+                "PassKey": "8f14bc7cfed6b1d589c84c6190a5ad280eabdc24f10976fa2ss3c853df36"
             },
             "dist": {
                 "type": "zip",
@@ -285,7 +285,7 @@
                 {
                     "name": "erTEWNuk2NHYdnTMsYHX]syakuOYQJqzJ4OW0q1hUx]hbdeq3e7KvWww!",
                     "Password": "t1n3sBBl)wdQdBT]wO446PtthYoGrkcbbBagfzhuX8ICG)HWdB9Zw16vclZLXUugWTA!",
-                    "PassKey": "RkjMRu8L"
+                    "PassKey": "8f14bc7cfed6b1d589c84c6190a5ad280eabdc24f10976fac853df36"
 
             "support": {
                 "issues": "https://github.com/tese/",
